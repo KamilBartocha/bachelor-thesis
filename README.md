@@ -10,4 +10,4 @@ The work discusses the algorythm of the Support Vector Machine in Krein spaces. 
 
 ## Keyw ords:
 operator of projection, Krein space, indefinite inner product, Gram matrix
-![alt text](https://github.com/KamilBartocha/bachelor-thesis/example3dot5_Projection.png)
+![alt text](https://github.com/KamilBartocha/bachelor-thesis/blob/master/example3dot5_Projection.png)
